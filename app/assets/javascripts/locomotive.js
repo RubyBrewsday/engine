@@ -7,7 +7,11 @@
 //= require jquery
 //= require jquery-ui
 //= require jquery_ujs
+<<<<<<< HEAD
 //= require bootstrap.min
+=======
+//= require bootstrap
+>>>>>>> e855cc99bad294d2fce61e1f9903b1ef8a942671
 //= require underscore
 //= require backbone
 //= require codemirror
