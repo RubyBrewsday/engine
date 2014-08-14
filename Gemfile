@@ -4,9 +4,9 @@
 source "https://rubygems.org"
 
 gemspec # Include gemspec dependencies
-gem 'autoprefixer-rails'
+# gem 'autoprefixer-rails'
 group :assets do
-  gem 'bootstrap-sass', '~>3.1.0.2'
+  # gem 'bootstrap-sass', '~>3.1.0.2'
   gem 'sass-rails',   '~> 3.2.4'
   gem 'coffee-rails', '~> 3.2.2'
   gem 'uglifier',     '~> 1.2.4'
